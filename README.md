@@ -9,6 +9,8 @@
 
 [![David Parys Stats](https://github-readme-stats.vercel.app/api?username=davidparys&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidparys&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://parys.tech
 [twitter]: https://twitter.com/ParysDavid
 [instagram]: https://www.instagram.com/david_parys/
