@@ -18,17 +18,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-3d7b65?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-3d7b65?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-3d7b65?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-3d7b65?style=flat-square&logo=next.js&
-logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-3d7b65?style=flat-square&logo=next.js&logoColor=white)
 
 ### 🚀 Current Projects
 - 🏔️ **Mountain Web Studio** - Building digital experiences for businesses
-- 🌐 **Personal Portfolio** - Showcasing my work at [parys.tech](https://parys.tech)
+- 🌐 **Personal Portfolio** - Showcasing my work at [Mountain Web Studio](https://mountain-web-studio.com)
 - 📱 **Client Projects** - Various web applications and digital solutions
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://parys.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" /></a>
+<a href="https://mountain-web-studio.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" /></a>
 <a href="https://twitter.com/ParysDavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-parys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/david_parys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -38,7 +37,6 @@ logoColor=white)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davidparys&show_icons=true&theme=merko&bg_color=1c3830&title_color=3d7b65&icon_color=64a38b&text_color=bedccd&border_color=3d7b65" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=davidparys&theme=merko&background=1c3830&ring=3d7b65&fire=64a38b&currStreakLabel=3d7b65&sideLabels=bedccd&dates=92c3af" />
 </p>
 
 ### 📈 Language Stats
